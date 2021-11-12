@@ -32,7 +32,7 @@ Feel free to be creative with the scenario! But just to give you a kickstarter: 
 
 1. Use GraphQL instead of REST
 
-2. Design an makro service architecture diagram
+2. Design an macro service architecture diagram
 
 3. Implement a queue mechanism for asyncronous processing of messages (S3 Object Triggers)
 
